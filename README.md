@@ -3,6 +3,9 @@ Here you can find info about various pathfinding algorithms and most importantly
 
 Here is the list of the algos currently on-board:
 
-Here is the list of the algos that are currently getting on-board
+Here is the list of the algos that are currently getting on-board:
 - Dijkstra's algorithm
 - A*
+
+Here is the list of the algos that are one day going to get on-board:
+- Bellman-Ford's algorithm
